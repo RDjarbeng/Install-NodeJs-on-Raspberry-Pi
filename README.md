@@ -20,12 +20,13 @@ sudo cp -R * /usr/local/
 ```
 node –-version
 ```
-This should print out the current NodeJs version. For installing packages **npm** should come installed with the installed version of NodeJs if you installed a current version of NodeJs.
+
+This should print out the current NodeJs version; The commands given installed version 18.18.0. For installing packages **npm** should come installed with your version of NodeJs if you installed a recent version of NodeJs.
 
 ## Installing different Node versions
 _Optional_
-If you wish to change the node version to install, you can change the link in the command. Here we used `https://nodejs.org/dist/v18.18.0/node-v18.18.0-linux-armv7l.tar.xz`
+If you wish to change the node version to install, you can change the link in the command. Here we used version 18.18.0: `https://nodejs.org/dist/v18.18.0/node-v18.18.0-linux-armv7l.tar.xz`
 
-But you can use any link from the [NodeJs download page](https://nodejs.org/en/download) . Use the ARM7 linux binaries link if you need to install a different version on the Raspberry pi 4B.
+but you can use any link from the [NodeJs download page](https://nodejs.org/en/download) . Use the ARM7 linux binaries link if you need to install a different version on the Raspberry pi 4B.
 
 ![image](https://github.com/RDjarbeng/Install-NodeJs-on-Raspberry-Pi/assets/57795443/e01ff866-71f4-40ca-9767-88435c5b03e8)
