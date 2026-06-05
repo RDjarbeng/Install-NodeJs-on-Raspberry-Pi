@@ -1,7 +1,8 @@
 # Install-NodeJs-on-Raspberry-Pi
+Updated posts on my website
 > For the more recent way of installing nodejs on the raspberry pi 4 see this link: [Installing and removing nodejs for linux based systems for raspberry pi 4B](https://rdjarbeng.com/Installing_NodeJs_16/)
 
-> This method is the old way of installling it. Leaving it here because it still works
+> This method is the old way of installling it. Leaving it here because it still works. For further updates you can consider the version on the website to be the more up to date version.
 
 How to install NodeJs on the Raspberry Pi - tested on Raspberry Pi 4B using the terminal
 
